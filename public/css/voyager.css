@@ -1,0 +1,8 @@
+.propertyStyle {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.propertyStyle input {
+    margin-right: 5px;
+}
